@@ -11,3 +11,6 @@
 
 
 Подробнее про игру «Жизнь» можно прочитать в журнале [Квант](http://kvant.mccme.ru/1974/09/igra_zhizn.htm).
+
+### Запуск программы можно производить на любом устройстве с Windows, Linux, MacOS в виде .py скрипта:
+python src/application.py
